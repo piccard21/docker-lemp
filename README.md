@@ -10,3 +10,8 @@
         1. 127.0.0.1 php.test phpmyadmin.test
     1. startpage: http://php.test
     2. phpmyadmin: http://phpmyadmin.test
+2. FE & BE with Larevel & Vue
+    1. http://backend.demo.test/
+    2. http://backend.demo.test/api/hello-there
+    3. http://frontend.demo.test/
+
